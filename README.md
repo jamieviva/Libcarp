@@ -1,8 +1,6 @@
 # The TIER Documentation Protocol v2.0 for R
 
-## Overview 
-
-The TIER Documentation Protocol provides instructions for assembling a 
+## Overvumentation Protocol provides instructions for assembling a 
 set of electronic files that document all the steps of data processing 
 and analysis you conduct for an empirical research paper. 
 
